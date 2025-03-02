@@ -1,3 +1,4 @@
+#Python code for printing a pattern/sequence 
 n = 4  
 for i in range(n):
     for j in range(n):
@@ -7,6 +8,7 @@ for i in range(n):
             print(j + 1, end=' ')
     print()
 _______________________________________________________
+#HTML code for preparing a Resume
 <html>
     <head>
         <title><b>RESUME</b></title>
