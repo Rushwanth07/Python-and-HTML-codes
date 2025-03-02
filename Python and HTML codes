@@ -1,0 +1,55 @@
+n = 4  
+for i in range(n):
+    for j in range(n):
+        if i == j:
+            print('*', end=' ')
+        else:
+            print(j + 1, end=' ')
+    print()
+_______________________________________________________
+<html>
+    <head>
+        <title><b>RESUME</b></title>
+    </head>
+    <body>
+        <h1>S.Rushwanth</h1>
+        <p>Email: rushwanths281@gmail.com</p>
+        <P>Phone: +91-9948761551</P>
+        <p>Address: 4-137, Sri Krishna Nagar, M.R.Palli, Tirupati-517502.</p>
+        <hr>
+        <h2>Objective</h2>
+        <p>A motivative and passionate Computer Science student with keen interest in AI, web devolopment and eco-friendly innovations.</p>
+        <h2>EDUCATION</h2>
+        <ul>
+            <li>B.tech in Artificial Intelligence - Annamacharya Institutes of Technologies (2023-2027)</li>
+            <li>Relevant courses: Data Science & Machine Learning, Web Devolopment, Data Structures and Algorithms</li>
+        </ul>
+        <h2>SKILLS</h2>
+        <ul>
+            <li>Programming: C, JAVA, PYTHON</li>
+            <li>Web Devolopment: HTML, CSS, JavaScript</li>
+        </ul>
+        <h2>PROJECTS</h2>
+        <ul>
+            <li>AI powered Smart Cars</li>
+            <li>Created a personal website for a pricate online Business using HTML and CSS</li>
+        </ul>
+        <h2>EXPERIENCE</h2>
+        <ul>
+            <li>Intern at AITT Tech - Worked on Web Devolopmenet and AI Projects.</li>
+        </ul>
+        <h2>CERTIFICATES</h2>
+        <ul>
+            <li>Machine Learning certificate - Coursera</li>
+            <li>Full Stack Devolopment certificate - Udemy</li>
+        </ul>
+        <h2>HOBBIES</h2>
+        <ul>
+            <li>Programming</li>
+            <li>Gaming</li>
+            <li>Reading Tech Blogs</li>
+        </ul>
+        <h2>CONTACT</h2>
+        <p>Feel free to reach out via <u>email:rushwanths281@gmail.com</u> or <u>phone:9948761551.</u></p>
+    </body>
+</html>
